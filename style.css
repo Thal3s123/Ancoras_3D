@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    border-color: cornflowerblue;
+    border-style: groove;
+    background-color: aqua;  
+}
+
+body {
+    background-color:rgb(223, 79, 26)
+}
