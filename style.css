@@ -6,5 +6,14 @@ h1 {
 }
 
 body {
-    background-color:rgb(223, 79, 26)
+    background-color:rgb(108, 150, 190);
+    text-align: center;
+}
+
+img {
+    width: 40%;
+}
+
+h2 {
+    color: rgb(11, 46, 85);
 }
